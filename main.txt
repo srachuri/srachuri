@@ -1,6 +1,6 @@
 main branch
 
-doing some changes in branch b1.1
-doing some changes in branch b1.2
+doing some changes in branch b1 2.1
+doing some changes in branch b1 2.2
 doing some changes in branch b1.3
 doing some changes in branch b1.4
